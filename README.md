@@ -1,5 +1,5 @@
 # OOP_CPP
-University of Manchester OOP in C++ Module Assignments and Project
+University of Manchester **Object Oriented Programming in C++** Module Assignments and Project
 
 ## Assignment Grades:
 - Assignment 1: 4/4
